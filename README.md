@@ -48,7 +48,7 @@
 🌐 CONNECT
 <p align="center"> <a href="https://www.linkedin.com/in/aryaman-phogat"> <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" /> </a> <a href="mailto:aryamanphogat123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=black" /> </a> </p>
 🐍 CONTRIBUTION SNAKE
-<p align="center"> <img src="https://github.com/ARYAMANPHOGAT/ARYAMANPHOGAT/blob/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ARYAMANPHOGAT/ARYAMANPHOGAT/output/github-contribution-grid-snake.svg" /> </p>
 - FAILURE: Not an option ❌
 + SUCCESS: Keep shipping 🚀
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/> </p> ```
